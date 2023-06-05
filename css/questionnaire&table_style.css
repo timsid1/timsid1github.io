@@ -76,8 +76,11 @@ form {
 
  /*Change the Table Style */
  table {
-  width: 100%;
+  width: 85%;
   border-collapse: collapse;
+  padding: 50px;
+  margin: 50px;
+  background-color: rgb(255, 255, 255);
   border: 3px solid;
 }
 
